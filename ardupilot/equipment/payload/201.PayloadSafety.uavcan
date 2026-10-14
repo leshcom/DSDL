@@ -1,0 +1,11 @@
+#
+# Command to set and unset safety
+# Data type ID: 201
+#
+
+uint8 payload_safety
+uint8 safety_key
+
+---
+
+uint8 status

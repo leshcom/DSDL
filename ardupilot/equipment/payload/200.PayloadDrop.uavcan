@@ -1,0 +1,15 @@
+#
+# Command to drop mentioned payload
+# Data type ID: 200
+#
+
+uint8 payload_1
+uint8 payload_2
+uint8 payload_3
+uint8 payload_4
+uint8 payload_5
+uint8 payload_6
+
+---
+
+uint8 status
